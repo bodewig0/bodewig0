@@ -3,9 +3,9 @@
 <h2>👨‍💻 Mis proyectos:</h2>
 
 - <b>Generador de contraseña segura</b>
-  - [Practicando React](https://bodewig0.github.io/generadorPassword/)
+  - [React](https://bodewig0.github.io/generadorPassword/)
 - <b>Control de medición para Diabetes</b>
-  - [Implementación de JS](https://bodewig0.github.io/medicionDiabetes/) 
+  - [JS](https://bodewig0.github.io/medicionDiabetes/) 
 - <b>Página web de noticias sobre videojuegos</b>
   - [HTML/CSS](https://bodewig0.github.io/paginaNoticias/) 
 
