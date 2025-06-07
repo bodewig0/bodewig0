@@ -1,5 +1,9 @@
 <div allign="center">
-    Hola, soy bodewig
+    <h1 allign="center">Hola, soy bodewig</h1>
+</div>
+
+<div>
+    Soy un dev en crecimiento, aprendiendo de a poco día a día.
 </div>
 
 <!--
