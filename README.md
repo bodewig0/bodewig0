@@ -1,10 +1,19 @@
-<div allign="center">
-    <h1 allign="center">Hola, soy bodewig</h1>
-</div>
+<h1>Hola, soy bodewig! <br/></h1>
 
-<div>
-    Soy un dev en crecimiento, aprendiendo de a poco día a día.
-</div>
+<h2>👨‍💻 Mis proyectos:</h2>
+
+- <b>Generador de contraseña segura</b>
+  - [Practicando React](https://bodewig0.github.io/generadorPassword/)
+- <b>Control de medición para Diabetes</b>
+  - [Implementación de JS](https://bodewig0.github.io/medicionDiabetes/) 
+- <b>Página web de noticias sobre videojuegos</b>
+  - [HTML/CSS](https://bodewig0.github.io/paginaNoticias/) 
+
+<h2> 🤳 Mis redes:</h2>
+
+[<img align="left" alt="Rodrigo Letcher | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/rodrigoletcher/
 
 <!--
 **bodewig0/bodewig0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
